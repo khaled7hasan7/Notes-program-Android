@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable add_icons
+drawable back
+drawable back_icon
+drawable delete_icon
+drawable done_icon
+drawable donetask
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_add
+id btn_back
+id deleteButton
+id doneButton
+id ed_task
+id listview_done
+id taskTextView
+id task_comp
+id taskisdone
+id tasksListView
+layout activity_main
+layout activitytwo
+layout list
+layout list2
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Assgiment1note
+style Theme.Assgiment1note
+xml backup_rules
+xml data_extraction_rules

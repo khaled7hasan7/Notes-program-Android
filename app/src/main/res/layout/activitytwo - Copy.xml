@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f3e9df"
+
+    android:orientation="vertical"
+    >
+
+
+    <ImageView
+        android:layout_width="45dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="300dp"
+        android:src="@drawable/donetask"
+        android:layout_marginTop="30dp"
+
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="task "
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="complete "
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        />
+
+
+    <ListView
+        android:id="@+id/listview_done"
+        android:layout_width="match_parent"
+        android:layout_height="551dp"
+        android:layout_marginTop="100dp"
+
+        />
+
+    <Button
+
+        android:id="@+id/btn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="85dp"
+        android:layout_below="@+id/listview_done"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="35dp"
+        android:backgroundTint="#f3e9df"
+        android:drawableTop="@drawable/back"
+
+        />
+
+</RelativeLayout>

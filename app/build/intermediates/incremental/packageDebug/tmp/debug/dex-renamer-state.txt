@@ -1,0 +1,10 @@
+#Sun Nov 19 13:18:30 EET 2023
+base.0=C\:\\Users\\kaled\\AndroidStudioProjects\\assgiment1note\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\kaled\\AndroidStudioProjects\\assgiment1note\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\kaled\\AndroidStudioProjects\\assgiment1note\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\13\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=13/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
